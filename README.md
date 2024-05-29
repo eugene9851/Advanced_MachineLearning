@@ -1,8 +1,12 @@
 # MachineLearning Lecture (2024.04 ~ 2024.05)
 
+온라인 스터디
+
 tools: python, sklearn, matplotlib, colab
+
 Data: iris, makemoons, titanic, wine, Kaggle Credit Score Classification 
 
+## 공부 목차
 1. Statistics
 2. Data preprocessing
    1) MinMax, Stadard, Robust Scaler
