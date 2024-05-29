@@ -24,7 +24,7 @@ Data: iris, makemoons, titanic, wine, Kaggle Credit Score Classification
 14. Hyperparameter tuning - bayesian optimization, optuna
 
 
-References
+## References
 1. Chen, Tianqi, and Carlos Guestrin. "Xgboost: A scalable tree boosting system." Proceedings of the 22nd acm sigkdd international conference on knowledge discovery and data mining. 2016.
 2. Snoek, Jasper, Hugo Larochelle, and Ryan P. Adams. "Practical bayesian optimization of machine learning algorithms." Advances in neural information processing systems 25 (2012).
 3. Aurelien, Geron, "Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow", 2019
